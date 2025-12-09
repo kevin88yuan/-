@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ScreenCast Pro AI",
+  "description": "A professional screen recording tool that allows you to capture your screen, microphone audio, and export as MP4/WebM. Includes AI-powered analysis of your recording context.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
